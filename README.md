@@ -111,81 +111,21 @@ const sidheshwar = {
 
 <br/>
 
-<table align="center">
-<tr>
-<td width="50%" align="center">
+<div align="center">
 
-### 🔐 [SimpleETHVault](https://github.com/Siddheshwar-cloud/SimpleETHVault)
+| 🔐 [SimpleETHVault](https://github.com/Siddheshwar-cloud/SimpleETHVault) | 🎟️ [Lottery Contract](https://github.com/Siddheshwar-cloud/lottery-hardhat) |
+|:---:|:---:|
+| <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="280px"/> | <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="280px"/> |
+| Secure Ethereum wallet with deposits & withdrawals | Decentralized lottery with automated winner selection |
+| ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white) ![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=flat-square&logoColor=black) | ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white) ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logoColor=white) |
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400px"/>
+| 💬 [Blockchain Messenger](https://github.com/Siddheshwar-cloud/blockchain-messenger) | 🪂 [Token Dashboard](https://github.com/Siddheshwar-cloud/-ENVA-Token-Dashboard) |
+|:---:|:---:|
+| <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="280px"/> | <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="280px"/> |
+| Decentralized P2P messaging platform | ENVA token interface with faucet & explorer |
+| ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) |
 
-**A Secure Ethereum Wallet Smart Contract**
-
-A powerful Ethereum smart contract functioning as a secure wallet with deposit capabilities, owner-controlled withdrawals, and comprehensive transaction logging. Built with Solidity for maximum security.
-
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=flat-square&logo=hardhat&logoColor=black)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
-
-[🔗 View Repository](https://github.com/Siddheshwar-cloud/SimpleETHVault)
-
-</td>
-<td width="50%" align="center">
-
-### 🎟️ [Lottery Smart Contract](https://github.com/Siddheshwar-cloud/lottery-hardhat)
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400px"/>
-
-**Decentralized Lottery System**
-
-A transparent and provably fair lottery system built on blockchain with automated winner selection, secure fund management, and complete transparency. No centralized control!
-
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=flat-square&logo=hardhat&logoColor=black)
-![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white)
-
-[🔗 View Repository](https://github.com/Siddheshwar-cloud/lottery-hardhat)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" align="center">
-
-### 💬 [Blockchain Messenger](https://github.com/Siddheshwar-cloud/blockchain-messenger)
-
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="400px"/>
-
-**Decentralized Messaging Platform**
-
-A blockchain-based messaging application ensuring privacy, security, and true decentralization. Send messages peer-to-peer without any central authority. Your data, your control.
-
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white)
-
-[🔗 View Repository](https://github.com/Siddheshwar-cloud/blockchain-messenger)
-
-</td>
-<td width="50%" align="center">
-
-### 🪂 [Token Dashboard](https://github.com/Siddheshwar-cloud/-ENVA-Token-Dashboard)
-
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="400px"/>
-
-**ENVA Token DApp Interface**
-
-Complete frontend interface for ENVA token featuring faucet functionality, real-time balance viewer, and transaction explorer. Seamless token interaction with beautiful UI/UX.
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white)
-
-[🔗 View Repository](https://github.com/Siddheshwar-cloud/-ENVA-Token-Dashboard)
-
-</td>
-</tr>
-</table>
+</div>
 
 <br/>
 <br/>
