@@ -1,18 +1,19 @@
 <div align="center">
 
-# Hey There 👋 I'm Sidheshwar
+# Hey There 👋 I'm Sidheshwar Yengudle
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=440&lines=Blockchain+Developer;Smart+Contract+Engineer;Web3+Enthusiast;Building+Decentralized+Apps" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=440&lines=Blockchain+Developer;Smart+Contract+Dev;Web3+Enthusiast;Building+Decentralized+Apps" alt="Typing SVG" />
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sidheshwar-yengudle-113882241)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sidheshwar-cloud)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Siddheshwar-cloud)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/SYangudale)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sidheshwaryengudle@gmail.com)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Sidheshwar-cloud&color=brightgreen&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=Siddheshwar-cloud&color=brightgreen&style=flat-square&label=Profile+Views)
 
 </div>
 
@@ -106,105 +107,85 @@ const sidheshwar = {
 
 <br/>
 
-## 📊 GitHub Statistics
-
-<br/>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sidheshwar-cloud&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sidheshwar-cloud&theme=radical&hide_border=true" />
-</p>
-
-<br/>
-
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sidheshwar-cloud&layout=compact&theme=radical&hide_border=true" />
-</p>
-
-<br/>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sidheshwar-cloud&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
-</p>
-
-<br/>
-<br/>
-
----
-
-<br/>
-
-## 🏆 GitHub Trophies
-
-<br/>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sidheshwar-cloud&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" />
-</p>
-
-<br/>
-<br/>
-
----
-
-<br/>
-
 ## 🚀 Featured Projects
 
 <br/>
 
-<div align="center">
+<table align="center">
+<tr>
+<td width="50%" align="center">
 
-### 🔐 [SimpleETHVault](https://github.com/Sidheshwar-cloud/SimpleETHVault)
+### 🔐 [SimpleETHVault](https://github.com/Siddheshwar-cloud/SimpleETHVault)
 
-**A secure Ethereum wallet smart contract**
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400px"/>
 
-A simple yet powerful Ethereum smart contract functioning as a secure wallet. Built with Solidity, it enables deposits, owner-controlled withdrawals, and comprehensive transaction logging.
+**A Secure Ethereum Wallet Smart Contract**
+
+A powerful Ethereum smart contract functioning as a secure wallet with deposit capabilities, owner-controlled withdrawals, and comprehensive transaction logging. Built with Solidity for maximum security.
 
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
 ![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=flat-square&logo=hardhat&logoColor=black)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
 
-<br/>
-<br/>
+[🔗 View Repository](https://github.com/Siddheshwar-cloud/SimpleETHVault)
 
-### 🎟️ [Lottery Smart Contract](https://github.com/Sidheshwar-cloud/lottery-hardhat)
+</td>
+<td width="50%" align="center">
 
-**Decentralized lottery system on Ethereum**
+### 🎟️ [Lottery Smart Contract](https://github.com/Siddheshwar-cloud/lottery-hardhat)
 
-A transparent and fair lottery system built on blockchain technology with automated winner selection and secure fund management.
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400px"/>
+
+**Decentralized Lottery System**
+
+A transparent and provably fair lottery system built on blockchain with automated winner selection, secure fund management, and complete transparency. No centralized control!
 
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
 ![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=flat-square&logo=hardhat&logoColor=black)
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white)
 
-<br/>
-<br/>
+[🔗 View Repository](https://github.com/Siddheshwar-cloud/lottery-hardhat)
 
-### 💬 [Blockchain Messenger](https://github.com/Sidheshwar-cloud/blockchain-messenger)
+</td>
+</tr>
 
-**Decentralized messaging platform**
+<tr>
+<td width="50%" align="center">
 
-A blockchain-based messaging application ensuring privacy, security, and decentralization for peer-to-peer communication.
+### 💬 [Blockchain Messenger](https://github.com/Siddheshwar-cloud/blockchain-messenger)
+
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="400px"/>
+
+**Decentralized Messaging Platform**
+
+A blockchain-based messaging application ensuring privacy, security, and true decentralization. Send messages peer-to-peer without any central authority. Your data, your control.
 
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white)
 
-<br/>
-<br/>
+[🔗 View Repository](https://github.com/Siddheshwar-cloud/blockchain-messenger)
 
-### 🪂 [Token Dashboard](https://github.com/Sidheshwar-cloud/token-dashboard)
+</td>
+<td width="50%" align="center">
+
+### 🪂 [Token Dashboard](https://github.com/Siddheshwar-cloud/-ENVA-Token-Dashboard)
+
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="400px"/>
 
 **ENVA Token DApp Interface**
 
-Frontend interface for ENVA token featuring faucet functionality, balance viewer, and transaction explorer for seamless token interaction.
+Complete frontend interface for ENVA token featuring faucet functionality, real-time balance viewer, and transaction explorer. Seamless token interaction with beautiful UI/UX.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white)
 
-</div>
+[🔗 View Repository](https://github.com/Siddheshwar-cloud/-ENVA-Token-Dashboard)
+
+</td>
+</tr>
+</table>
 
 <br/>
 <br/>
@@ -213,65 +194,50 @@ Frontend interface for ENVA token featuring faucet functionality, balance viewer
 
 <br/>
 
-## 💡 Random Dev Quote
+## 📫 Let's Connect & Collaborate!
 
 <br/>
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
+<img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="150" />
 
 <br/>
 <br/>
 
----
+**I'm always excited to collaborate on blockchain projects, discuss Web3 innovations, or just chat about the future of decentralized technologies!**
 
 <br/>
 
-## 📫 Let's Connect!
-
-<br/>
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="200" />
-
-<br/>
-<br/>
-
-I'm always interested in collaborating on blockchain projects, discussing Web3 innovations, or just having a chat about decentralized technologies!
+### 🌟 Open for:
+- 🤝 Blockchain Project Collaborations
+- 💼 Smart Contract Development Opportunities
+- 🎓 Mentoring & Knowledge Sharing
+- 🚀 Innovative Web3 Ideas
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sidheshwar-yengudle-113882241)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/SYangudale)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sidheshwaryengudle@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sidheshwar-cloud)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Siddheshwar-cloud)
 
 <br/>
 <br/>
 
-### 💬 Ask me about: 
+### 💬 Ask me about:
 
-**Blockchain** | **Solidity** | **Smart Contracts** | **Web3** | **dApps** | **DeFi**
-
-</div>
-
-<br/>
-<br/>
-
----
+**Blockchain** • **Solidity** • **Smart Contracts** • **Web3** • **dApps** • **DeFi**
 
 <br/>
 
-<div align="center">
-
-### ⭐ Show some love by starring repositories you find interesting!
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
 <br/>
 
-**Thanks for visiting! 🚀**
+### ⭐ If you find my work interesting, consider starring my repositories!
+
+**Thanks for visiting! Let's build the decentralized future together! 🚀**
 
 <br/>
 
