@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey There 👋 I'm Sidheshwar
+# Hey There 👋 I'm Sidheshwar Yengudle
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=440&lines=Blockchain+Developer;Smart+Contract+Dev;Web3+Enthusiast;Building+Decentralized+Apps" alt="Typing SVG" />
 
@@ -140,7 +140,7 @@ const sidheshwar = {
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" alt="Handshake" width="200" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXl5dTNzNGQ3Nmh1eXRleTZnMHRhejBqdHhoejJnZWZ4Nmk2Ym9oZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ll22OhMLAlVDb8UQWe/giphy.gif" alt="Handshake" width="150" />
 
 <br/>
 <br/>
