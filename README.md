@@ -55,7 +55,7 @@ const sidheshwar = {
 - 🌱 **Learning:** Advanced Solidity patterns, DeFi, DAOs
 - 💡 **Interests:** Tokenomics, Web3 infrastructure, On-chain development
 - ⚡ **Fun fact:** I debug smart contracts faster than my sleep schedule 😄
-- 📫 **Reach me:** sidheshwaryengudle@gmail.com
+- 📫 **Reach me:** shidheshoryangudale@gmail.com
 
 <br/>
 <br/>
