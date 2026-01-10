@@ -165,7 +165,7 @@ const sidheshwar = {
 
 **Thanks for visiting! Let's build the decentralized future together! 🚀**
 
-<br/>
+<br/
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
