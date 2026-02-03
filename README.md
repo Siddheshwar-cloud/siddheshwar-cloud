@@ -26,7 +26,7 @@
 
 ```javascript
 const sidheshwar = {
-    name: "Sidheshwar Yengudle",
+    name: "Sidheshwar Yengudle", 
     location: "Pune, Maharashtra, India 🇮🇳",
     education: "Savitribai Phule Pune University",
     role: "Blockchain Developer & Web3 Enthusiast",
